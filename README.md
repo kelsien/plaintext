@@ -4,6 +4,8 @@ Free and open-source content on technology in society, software development, (op
 
 Available under the Creative Commons Attribution Share Alike 4.0 International License (https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
+For more information, see plaintext.group
+
 # Project Info
 
 This project uses `pandoc` to transform markdown source files into a variety of formats/
