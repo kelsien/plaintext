@@ -5,7 +5,7 @@ description: What is the internet, where did it come from, and where is it going
 You have a mission. To invent the new inter-web. We explore Web1.0, 2.0 & 3.0 and put digital applications in context to understand the values applied to technology as we explore how and why the internet came about, emerging technologies that challenge existing concerns with technology, including blockchain, and how to found and grow your own technology startup. We then apply this understanding to think about the possible futures of the internet and your role in helping design and build this. 
 date: December 13, 2019
 ---
-# Title & overview
+# Title & Overview
 The promise of the internet: The invention and evolution of the internet, with an emphasis on the competition of values and priorities between opensource and proprietary software, and the monetization of user data. (Components of the internet, focusing on software. We’ll come back to protocols, hardware & people). 
 # Knowledge
 Opensource mindset. The origins and values of the internet and opensource technology. 
@@ -22,4 +22,5 @@ Promise of the internet. Why was it developed in the first place (quote). What w
 6.	Applied algorithms case study: research a company and how their data algorithms work. Based on your learnings of what’s possible, what are some algorithms you could create if you had a company? Present back to the class.
 # Materials: 
 Computer and internet.
-# Optional text: The Great Hack (movie), Snow Crash (fiction novel).
+# Optional text: 
+The Great Hack (movie), Snow Crash (fiction novel).
