@@ -1,7 +1,12 @@
 ---
-author: Plaintext
+author: Plaintext Group
 title: Lesson 1
-date: December 11, 2019
+date: December 13, 2019
 ---
-# Plaintext
-Lesson 1
+# Foo
+```python
+print("hello world")
+```
+# Bar
+* test
+* test
