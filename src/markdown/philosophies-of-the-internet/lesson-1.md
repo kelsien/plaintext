@@ -1,7 +1,0 @@
----
-author: Plaintext
-title: Lesson 1
-date: December 11, 2019
----
-# Plaintext
-Lesson 1
