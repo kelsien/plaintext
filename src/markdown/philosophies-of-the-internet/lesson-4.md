@@ -1,7 +1,7 @@
 ---
 author: Plaintext Group
 title: Lesson 4
-description: Internet: use cases & the app economy + your very first lean canvas model.
+description: Web 2.0. Internet use cases, the app economy and Silicon Valley startups. 
 date: December 13, 2019
 ---
 # Title & Overview
