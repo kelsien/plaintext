@@ -1,22 +1,20 @@
 ---
 author: Plaintext Group
 title: Lesson 5
-description: Blockchain games: introduction to solidity (smart-contract language) coding. 
+description: Business models for start-up founders. 
 date: December 13, 2019
 ---
 # Title & Overview
-Hands on skills to build decentralised apps.
+Pitch your own start-up for funding! 
 # Knowledge
-Basic solidity which is the Ethereum blockchain protocol smart programming language, through gaming.
+Software funding models, venture capital & monetisation of user data versus paid business models and crowd funding. 
 # Skills
-Logic frameworkd, problem solving, basic solidity coding. 
+Create a plan, articulate and visually represent a solution. 
 # Activities:
-1. Create a GitHub account (opensource code repository). 
-2. Make a pull request on an opensource code base (edit someone else’s work to contribute. Try plaintext.group GitHub!). 
-3. Understand and apply basic javascript commands in Terminal 
-4. Practice solidity by playing crypto-zombies (online coding game) and https://gun.eco/docs/Learn-Code.
+Your goal is to understand the right business model for your start-up idea. You have the option to pitch your software technology startup idea to an audience of the top investors in the Silicon Valley for your share in $1 million in seed funding, crowd fund or do a pay to use model. We understand the options and the best choice for your startup before getting in to character and getting some businesses off the ground! 
+1. Introduction of social impact canvas 2. Determining a business model 3. Business modelling role play and pitching for share in $1m: pitch for funding to a venture capitalist or for an alternative source of funding. Provide feedback to each other (what aspect of the idea best met the users needs, what do you still need to know, what how much will you invest/or willing to pay to use?)
 # Materials:
-Computer and internet.
+Paper and pen.
 # Optional text:
-Grock learning, Ethereum wiki, eth.research (websites).
+Shark Tank (TV show). 
 
