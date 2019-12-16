@@ -1,26 +1,21 @@
 ---
 author: Plaintext Group
 title: Lesson 7
-description: It all begins with (open) hardware.
+description: Into the metaverse: possible futures of the internet and technology in society.
 date: December 13, 2019
 ---
 # Title & Overview
-What are we built on? It all begins with (open)hardware. Open-source design in the physical world through hardware. 
+It’s the year 2119. We all live in the metaverse, with our consciousness tapped in to a 3D computerized realm. A new technology has been discovered to transport you back in time to your current selves. What does the future look like?
 # Knowledge
-Moving back down the technology stack to understand and interact with ‘slow hardware’ – simple, rebuildable, re-purposeable technology that the user controls. 
-Understanding how the internet that we see and interact with is layers upon layers of abstraction and creating opportunity to interact with any or all of these layers.
+Historical analysis, prediction, futurism.
 # Skills
-Hardware design, networking, problem solving, creativity, research, presentation.
+Critical analysis of history, logical reasoning, creative thinking, creative writing. 
 # Activities:
-1. Find a hardware template on an opensource code repository and find out what it would take to build it.
-2. Case study: the open-source computer stand, invented by a University student. Activity: Pick an everyday object and outline how you would design and share it as an open-source template in a written proposal. 
-3. Share in small groups.
+1. What predictions exist? Case study analysis of a number of visions of the future (based on real world inventions, books students have read, movies seen and other examples e.g. neural-link, robotics, AI, etc).
+2. Describe what the world will look like in one hundred years.  Will there be people? Will there be a planet? What buildings, creatures, languages, etc. What will technology look like?
+3. Invent something that will exist for the next 100 years. What problem will it solve? What will the world look like? What will happen to it then?
 # Materials:
-Computer and internet.
+Paper and pen.
 # Optional text:
-Openism (non-fiction book or pdf).
-Open medical and open disaster response: 
-- https://shuttleworthfoundation.org/fellows/tarek-loubani/
-- https://shuttleworthfoundation.org/fellows/andrew-lamb/
-- https://makernet.org/#products
-
+Anything by Matthew Reilly, Neil Stephenson, or Cory Doctoral (sci-fi, fiction authors).
+The Long Now Foundation (see, projects).
