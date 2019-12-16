@@ -8,7 +8,9 @@ date: December 13, 2019
 Hands on skills to build decentralised apps.
 # Knowledge
 Basic solidity which is the Ethereum blockchain protocol smart programming language, through gaming.
-# Activites:
+# Skills
+Logic frameworkd, problem solving, basic solidity coding. 
+# Activities:
 1. Create a GitHub account (opensource code repository). 
 2. Make a pull request on an opensource code base (edit someone else’s work to contribute. Try plaintext.group GitHub!). 
 3. Understand and apply basic javascript commands in Terminal 
