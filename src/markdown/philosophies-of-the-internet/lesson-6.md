@@ -9,10 +9,10 @@ Put on your travelling shoes. We are teleporting as we visit other parts of the 
 # Knowledge
 Understanding the politics of technology by studying real-world use cases of civil society activism, censorship, internet shut downs. Investigating the values and ethical dilemmas of internet activism. 
 # Skills
-Logical analysis, critical thinking, research, presentation.. 
+Logical analysis, critical thinking, research, presentation.
 # Activities:
 Research real-world events and present to the class. 
-Options include: The Hong Kong protests, The Arab Spring & Twitter, The internet in China, Cambridge Analytica, Facebook & US Elections, The internet in Russia.
+Options include: The Hong Kong protests, the Arab Spring & Twitter, the internet in China, Cambridge Analytica, Facebook & US Elections, the internet in Russia.
 # Materials:
 Computer and internet.
 # Optional text:
