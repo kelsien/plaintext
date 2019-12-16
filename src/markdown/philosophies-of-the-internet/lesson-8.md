@@ -1,6 +1,6 @@
 ---
 author: Plaintext Group
-title: Lesson 7
+title: Lesson 8
 description: It all begins with (open) hardware.
 date: December 13, 2019
 ---
